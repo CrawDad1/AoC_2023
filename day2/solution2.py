@@ -1,5 +1,5 @@
 total = 0
-with open("./example.txt", "r") as infile:
+with open("./input.txt", "r") as infile:
     for line in infile:
         color_lists = {
             'red': [],
